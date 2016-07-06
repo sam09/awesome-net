@@ -18,7 +18,7 @@ A list of stuff I should be reading
  * [Spark Scala]
  
 ####Machine Learning
- * [Introduction to pandas and scikit-learn]
- * [Introduction to nueral networks]
+ * [Introduction to pandas and scikit-learn] (https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
+ * [Introduction to nueral networks] (http://neuralnetworksanddeeplearning.com/chap1.html)
  * [Introduction to Tensorflow]
  * [Deep learning]
