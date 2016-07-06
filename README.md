@@ -7,6 +7,7 @@ A list of stuff I should be reading
 * [Suffix Array] (https://web.stanford.edu/class/cs97si/suffix-array.pdf)
 * [Segment Trees] (codeforces.com/blog/entry/18051)
 * [Fenwick Trees]
+* [String Matching] (https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
 
 
 ####Open source and dev suff
