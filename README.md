@@ -10,12 +10,13 @@ A list of stuff I should be reading
 * [String Matching] (https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
 * [Bloom filter]
 * [Max flow-Min cut]
-* [Dp on trees]
+* [Dp on trees] (http://codeforces.com/blog/entry/20935)
 
 ####Open source and dev suff
  * [Haskell Beginner list] (https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
  * [Unity](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QSFdh-evJbfkxCK_bjUD37n)
  * [Spark Scala]
+ * Getting Started with DuckDuckHack (http://docs.duckduckhack.com/)
  
 ####Machine Learning
  * [Introduction to pandas and scikit-learn] (https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
