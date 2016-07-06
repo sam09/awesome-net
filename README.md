@@ -16,7 +16,7 @@ A list of stuff I should be reading
  * [Haskell Beginner list] (https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
  * [Unity](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QSFdh-evJbfkxCK_bjUD37n)
  * [Spark Scala]
- * Getting Started with DuckDuckHack (http://docs.duckduckhack.com/)
+ * [Getting Started with DuckDuckHack] (http://docs.duckduckhack.com/)
  
 ####Machine Learning
  * [Introduction to pandas and scikit-learn] (https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
