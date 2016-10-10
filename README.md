@@ -13,6 +13,8 @@ A list of stuff I should be reading
 * [Dp on trees] (http://codeforces.com/blog/entry/20935)
 * [Game thoery] (https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games)
 * [HDL] (https://blog.anudeep2011.com/heavy-light-decomposition/)
+* [Geometry] (https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-using-geometry-in-topcoder-problems/)
+* [] 
 
 ####Open source and dev suff
  * [Haskell Beginner list] (https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
