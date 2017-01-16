@@ -21,6 +21,7 @@ A list of stuff I should be reading
  * [Unity](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QSFdh-evJbfkxCK_bjUD37n)
  * [Spark] (http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
  * [Scala]
+ * [Hadoop] (http://data-flair.training/blogs/top-hdfs-commands-tutorial/)
  * [Crypto] (https://blog.cryptographyengineering.com/about-me/)
  * [Exploit excercises] (https://exploit-exercises.com/protostar/)
  * [Getting Started with DuckDuckHack] (http://docs.duckduckhack.com/)
@@ -32,5 +33,6 @@ A list of stuff I should be reading
  * [Introduction to Tensorflow]
  * [LSTM] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [Neural Nets] (http://karpathy.github.io/neuralnets/)
- * [Reinforcement Learning] (http://outlace.com/Reinforcement-Learning-Part-3/)
+ * [Reinforcement Learning] https://www.udacity.com/course/reinforcement-learning--ud600)
+ * 
  * [Deep learning] (http://colah.github.io)
