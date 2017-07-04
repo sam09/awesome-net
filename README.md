@@ -10,6 +10,7 @@ A list of stuff I should be reading
 * [String Matching] (https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
 * [Bloom filter(Funny One)] (https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff#.9z3vxhyqj)
 * [Max flow-Min cut]
+* [Priority Queues (STL) for reference] (http://www.geeksforgeeks.org/implement-min-heap-using-stl/)
 * [Dp on trees] (http://codeforces.com/blog/entry/20935)
 * [Game thoery] (https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games)
 * [HDL] (https://blog.anudeep2011.com/heavy-light-decomposition/)
@@ -22,10 +23,15 @@ A list of stuff I should be reading
  * [Spark] (http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
  * [Scala]
  * [Hadoop] (http://data-flair.training/blogs/top-hdfs-commands-tutorial/)
+ * [Getting Started with DuckDuckHack] (http://docs.duckduckhack.com/)
+ 
+ ####Security
  * [Crypto] (https://blog.cryptographyengineering.com/about-me/)
  * [Exploit excercises] (https://exploit-exercises.com/protostar/)
- * [Getting Started with DuckDuckHack] (http://docs.duckduckhack.com/)
  * [Crypto Challenges] (http://cryptopals.com/)
+ 
+####Distributed Systems
+ * (Key-Value Store) (http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
  
 ####Machine Learning
  * [Introduction to pandas and scikit-learn] (https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
@@ -34,5 +40,5 @@ A list of stuff I should be reading
  * [LSTM] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [Neural Nets] (http://karpathy.github.io/neuralnets/)
  * [Reinforcement Learning] https://www.udacity.com/course/reinforcement-learning--ud600)
- * 
  * [Deep learning] (http://colah.github.io)
+ * [LSTMS] (http://blog.echen.me/2017/05/30/exploring-lstms)
