@@ -19,7 +19,8 @@ A list of cool stuff on the net
 * [Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5)
 * [Hackenbush](math450games.blogspot.in/2017/02/green-hackenbush.html)
 * [Persistent Segment Trees](https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
-
+* [FFT](https://www.hackerrank.com/contests/infinitum-aug14/challenges/emma-and-sum-of-products/editorial)
+* []()
 #### Open source and dev suff
  * [Haskell Beginner list](https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
  * [Unity](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QSFdh-evJbfkxCK_bjUD37n)
