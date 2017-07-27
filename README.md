@@ -26,7 +26,7 @@ A list of cool stuff on the net
  * [Unity](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QSFdh-evJbfkxCK_bjUD37n)
  * [Spark](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
  * [Scala]
- * [Docker]
+ * [Docker](https://docs.docker.com/get-started/)
  * [Introduction to Ethereum](https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/)
  * [Getting Started with Ethereum and Smart Contracts](http://consensys.github.io/developers/articles/101-noob-intro/)
  * [Intro to Hadoop in python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
