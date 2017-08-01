@@ -37,6 +37,7 @@ A list of cool stuff on the net
  * [Crypto](https://blog.cryptographyengineering.com/about-me/)
  * [Exploit excercises](https://exploit-exercises.com/protostar/)
  * [Crypto Challenges](http://cryptopals.com/)
+ * [Kerberos](https://web.mit.edu/kerberos/dialogue.html)
  
 #### Distributed Systems
  * [Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
