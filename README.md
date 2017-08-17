@@ -46,7 +46,7 @@ A list of cool stuff on the net
  
 #### Machine Learning
  * [Introduction to pandas and scikit-learn and Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
- * [Introduction to nueral networks](http://neuralnetworksanddeeplearning.com/chap1.html)
+ * [Introduction to neural networks](http://neuralnetworksanddeeplearning.com/chap1.html)
  * [Introduction to Tensorflow](https://www.tensorflow.org/get_started/)
  * [LSTMS](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [Neural Nets](http://karpathy.github.io/neuralnets/)
