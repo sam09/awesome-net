@@ -56,3 +56,4 @@ A list of cool stuff on the net
  * [Word Vectors and word2vec](https://www.tensorflow.org/tutorials/word2vec)
  * [CNN](http://cs231n.github.io/convolutional-networks/)
  * [LSTMS](http://blog.echen.me/2017/05/30/exploring-lstms)
+ * [Tensorflow tutorial](web.stanford.edu/class/cs20si/syllabus.html)
