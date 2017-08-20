@@ -20,6 +20,7 @@ A list of cool stuff on the net
 * [Hackenbush](math450games.blogspot.in/2017/02/green-hackenbush.html)
 * [Persistent Segment Trees](https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
 * [FFT](https://www.hackerrank.com/contests/infinitum-aug14/challenges/emma-and-sum-of-products/editorial)
+* [Palindromic Trees](http://adilet.org/blog/25-09-14/)
 
 #### Open source and dev suff
  * [Haskell Beginner list](https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
