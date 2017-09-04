@@ -45,16 +45,23 @@ A list of cool stuff on the net
  * [FLP Impossibility](the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/)
  * [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
  
-#### Machine Learning
+#### Machine Learning Introduction and Tools
  * [Introduction to pandas and scikit-learn and Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
- * [Introduction to neural networks](http://neuralnetworksanddeeplearning.com/chap1.html)
  * [Introduction to Tensorflow](https://www.tensorflow.org/get_started/)
+ * [Tensorflow tutorial](web.stanford.edu/class/cs20si/syllabus.html)
+ * [Deep learning](http://colah.github.io)
+ * [CoreML](https://www.youtube.com/watch?v=cyWYTwDtbyw)
+ * [Introduction to neural networks](http://neuralnetworksanddeeplearning.com/chap1.html)
+ 
+
+#### ML blogs/papers/concepts/courses
  * [LSTMS](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [Neural Nets](http://karpathy.github.io/neuralnets/)
  * [MDPs](https://www.cs.rice.edu/~vardi/dag01/givan1.pdf)
  * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
- * [Deep learning](http://colah.github.io)
  * [Word Vectors and word2vec](https://www.tensorflow.org/tutorials/word2vec)
  * [CNN](http://cs231n.github.io/convolutional-networks/)
  * [LSTMS](http://blog.echen.me/2017/05/30/exploring-lstms)
- * [Tensorflow tutorial](web.stanford.edu/class/cs20si/syllabus.html)
+ * [Memory networks](http://www.thespermwhale.com/jaseweston/icml2016/)
+ * [Seq2Seq](https://google.github.io/seq2seq/)
+ 
