@@ -44,6 +44,7 @@ A list of cool stuff on the net
  * [Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
  * [FLP Impossibility](the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/)
  * [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+ * [Gossip](https://www.coursera.org/learn/cloud-computing/lecture/jjieX/1-3-gossip-analysis)
  
 #### Machine Learning Introduction and Tools
  * [Introduction to pandas and scikit-learn and Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
@@ -55,13 +56,15 @@ A list of cool stuff on the net
  
 
 #### ML blogs/papers/concepts/courses
- * [LSTMS](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [Neural Nets](http://karpathy.github.io/neuralnets/)
  * [MDPs](https://www.cs.rice.edu/~vardi/dag01/givan1.pdf)
  * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
  * [Word Vectors and word2vec](https://www.tensorflow.org/tutorials/word2vec)
+ * [Word2vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
  * [CNN](http://cs231n.github.io/convolutional-networks/)
+ * [LSTMS](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  * [LSTMS](http://blog.echen.me/2017/05/30/exploring-lstms)
  * [Memory networks](http://www.thespermwhale.com/jaseweston/icml2016/)
  * [Seq2Seq](https://google.github.io/seq2seq/)
+ * [NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
  
