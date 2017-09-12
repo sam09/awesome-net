@@ -68,4 +68,5 @@ A list of cool stuff on the net
  * [Memory networks](http://www.thespermwhale.com/jaseweston/icml2016/)
  * [Seq2Seq](https://google.github.io/seq2seq/)
  * [NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
+ * [Deep Learning](http://www.deeplearningbook.org/)
  
