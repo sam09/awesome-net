@@ -46,6 +46,10 @@ A list of cool stuff on the net
  * [FLP Impossibility](the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/)
  * [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
  * [Gossip](https://www.coursera.org/learn/cloud-computing/lecture/jjieX/1-3-gossip-analysis)
+ * [Simple Paxos](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+ * [Cassandra](https://www.coursera.org/learn/cloud-computing/lecture/W2oeS/1-2-cassandra)
+ * [Distributed Computed in Golang](http://css.csail.mit.edu/6.824/2014/schedule.html)
+ * [Dynamo DB] (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
  
 #### Machine Learning Introduction and Tools
  * [Introduction to pandas and scikit-learn and Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
@@ -69,4 +73,5 @@ A list of cool stuff on the net
  * [Seq2Seq](https://google.github.io/seq2seq/)
  * [NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
  * [Deep Learning](http://www.deeplearningbook.org/)
+ * [GANs](https://deeplearning4j.org/generative-adversarial-network)
  
