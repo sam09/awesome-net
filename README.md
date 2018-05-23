@@ -21,6 +21,7 @@ A list of cool stuff on the net
 * [Persistent Segment Trees](https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
 * [FFT](https://www.hackerrank.com/contests/infinitum-aug14/challenges/emma-and-sum-of-products/editorial)
 * [Palindromic Trees](http://adilet.org/blog/25-09-14/)
+* [3D rendering](https://avik-das.github.io/build-your-own-raytracer/00-background/)
 
 #### Open source and dev suff
  * [Haskell Beginner list](https://ghc.haskell.org/trac/ghc/wiki/Newcomers)
