@@ -50,7 +50,8 @@ A list of cool stuff on the net
  * [Simple Paxos](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
  * [Cassandra](https://www.coursera.org/learn/cloud-computing/lecture/W2oeS/1-2-cassandra)
  * [Distributed Computed in Golang](http://css.csail.mit.edu/6.824/2014/schedule.html)
- * [Dynamo DB] (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+ * [Dynamo DB](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+ * [Load Balancing](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
  
 #### Machine Learning Introduction and Tools
  * [Introduction to pandas and scikit-learn and Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii)
