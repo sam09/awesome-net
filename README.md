@@ -17,7 +17,7 @@ A list of cool stuff on the net
 * [Geometry](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-using-geometry-in-topcoder-problems/)
 * [Grundy Numbers](https://www.hackerrank.com/topics/game-theory-and-grundy-numbers)
 * [Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5)
-* [Hackenbush](math450games.blogspot.in/2017/02/green-hackenbush.html)
+* [Hackenbush](https://math450games.blogspot.in/2017/02/green-hackenbush.html)
 * [Persistent Segment Trees](https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
 * [FFT](https://www.hackerrank.com/contests/infinitum-aug14/challenges/emma-and-sum-of-products/editorial)
 * [Palindromic Trees](http://adilet.org/blog/25-09-14/)
